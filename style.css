@@ -40,8 +40,9 @@ width:17%;
 a {
 text-decoration:none;
 background-color:transparent;
-font-size:11px;
+font-size:10px;
 color:black;
+font-family:Arial,sans-serif;
 }
 span {
 position:relative;
