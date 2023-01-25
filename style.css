@@ -3,7 +3,7 @@ background:white;
 
 }
 .header{
-background-image:url("/storage/emulated/0/Download/cross.jpeg");
+background-image:url("https://iili.io/H05OVWP.md.jpg");
 width:104.7%;
 height:520px;
 background-size:104.7% 520px;
@@ -34,15 +34,16 @@ color:red;
 border:1px solid white;
 }
 .logo {
-width:17%;
+width:16%;
 }
 
 a {
 text-decoration:none;
 background-color:transparent;
-font-size:10px;
+font-size:17px;
 color:black;
 font-family:Arial,sans-serif;
+float:left;
 }
 span {
 position:relative;
