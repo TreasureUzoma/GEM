@@ -1,0 +1,121 @@
+nav {
+background:white;
+
+}
+.header{
+background-image:url("/storage/emulated/0/Download/cross.jpeg");
+width:104.7%;
+height:520px;
+background-size:104.7% 520px;
+poition:absolute;
+margin-left:-8px;
+
+}
+.headerinfo {
+color:white;
+font-size:30px;
+font-family:cursive;
+}
+.headertext {
+color:white;
+font-family:Arial,sans-serif;
+}
+.btnj {
+border:1px solid red;
+outline:none;
+width:40%;
+height:40px;
+background:transparent;
+color:white;
+font-size:17px;
+}
+.btnj:active {
+color:red;
+border:1px solid white;
+}
+.logo {
+width:17%;
+}
+
+a {
+text-decoration:none;
+background-color:transparent;
+font-size:11px;
+color:black;
+}
+span {
+position:relative;
+top:-0.6cm;
+overflow:;
+}
+button {
+background:transparent;
+border:none;
+}
+main {
+height:520px;
+background:white;
+margin-left:-7px;
+margin-right:-7px;
+margin-top:-20px;
+top:600px;
+background:#f7f7ff;
+}
+.infoheader {
+
+color:#05386B;
+font-size:40px;
+font-stretch:ultra-expanded;
+font-family:Tahoma,Arial,sans-serif;
+padding:20px 25px;
+
+}
+.infotext {
+color:grey;
+padding:2px 25px;
+font-size:17px;
+font-family:Arial,sans-serif;
+letter-spacing:normal;
+word-spacing:5px;
+text-decoration:none;
+line-height:30px;
+}
+.btnlm {
+  background:transparent;
+  border:1px solid #84ceeb;
+  width:44%;
+  height:50px;
+  outline:none;
+  font-size:17px;
+  color:#5ab9ea;
+}
+.btnlm:active {
+color:white;
+background:#84ceeb;
+}
+.main {
+background:white;
+
+
+}
+hr {
+width:103.7%;
+margin-left:-7px;
+rght:0px;
+}
+footer {
+background:#4e4e50;
+color:white;
+margin-left:-7.67px;
+margin-right:-7.67px;
+padding:20px;
+}
+p {
+line-height:30px;
+}
+.linkd {
+color:white;
+line-height:30px;
+text-decoration:underline;
+font-size:17px;
+}
