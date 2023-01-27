@@ -41,11 +41,14 @@ line-height:25px;
   color:white;
   font-family:Arial,sans-serif;
 }
+.info2.text2 {
+margin-top:-130px;
+}
 .text3 {
    line-height:30px;
 }
 .info2{
-padding:30px 40px;
+padding:30px;
 }
 .img2 {
   width:100%;
