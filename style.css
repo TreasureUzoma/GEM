@@ -1,123 +1,173 @@
-nav {
-background:white;
 
+header {
+background-image:url("https://iili.io/H04P7g2.md.jpg");
+width:104.67%;
+height:450px;
+background-size:450px 104.67%;
+margin-left:-7.6px;
 }
-.header{
-background-image:url("https://iili.io/H05OVWP.md.jpg");
-width:104.7%;
-height:520px;
-background-size:104.7% 520px;
-poition:absolute;
-margin-left:-8px;
-
-}
-.headerinfo {
+.text1 {
 color:white;
-font-size:30px;
-font-family:cursive;
-}
-.headertext {
-color:white;
+padding-top:120px;
+font-size:35px;
+width:85%;
 font-family:Arial,sans-serif;
 }
-.btnj {
-border:1px solid red;
-outline:none;
-width:40%;
-height:40px;
-background:transparent;
+.gt {
 color:white;
-font-size:17px;
-}
-.btnj:active {
-color:red;
-border:1px solid white;
-}
-.logo {
-width:16%;
-}
-
-a {
-text-decoration:none;
-background-color:transparent;
-font-size:17px;
-color:black;
-font-family:Arial,sans-serif;
-float:left;
-}
-span {
-position:relative;
-top:-0.6cm;
-overflow:;
-}
-button {
-background:transparent;
+background:green;
 border:none;
+font-size:18px;
+padding:15px;
+border-radius:6px;
+outline:none;
 }
-main {
-height:520px;
-background:white;
-margin-left:-7px;
-margin-right:-7px;
-margin-top:-20px;
-top:600px;
-background:#f7f7ff;
+.info1 {
+   padding:30px;
+   margin-top:100px;
 }
-.infoheader {
+.img1 {
+width:100%;
+border-radius:5px;
 
-color:#05386B;
-font-size:40px;
-font-stretch:ultra-expanded;
-font-family:Tahoma,Arial,sans-serif;
-padding:20px 25px;
-
-}
-.infotext {
-color:grey;
-padding:2px 25px;
-font-size:17px;
-font-family:Arial,sans-serif;
-letter-spacing:normal;
-word-spacing:5px;
-text-decoration:none;
-line-height:30px;
-}
-.btnlm {
-  background:transparent;
-  border:1px solid #84ceeb;
-  width:44%;
-  height:50px;
-  outline:none;
-  font-size:17px;
-  color:#5ab9ea;
-}
-.btnlm:active {
-color:white;
-background:#84ceeb;
-}
-.main {
-background:white;
-
-
-}
-hr {
-width:103.7%;
-margin-left:-7px;
-rght:0px;
-}
-footer {
-background:#4e4e50;
-color:white;
-margin-left:-7.67px;
-margin-right:-7.67px;
-padding:20px;
 }
 p {
-line-height:30px;
+line-height:25px;
 }
-.linkd {
+.text2 {
+  width:65%;
+  font-size:34px;
+  margin-top:-115px;
+  color:white;
+  font-family:Arial,sans-serif;
+}
+.text3 {
+   line-height:30px;
+}
+.info2{
+padding:30px 40px;
+}
+.img2 {
+  width:100%;
+border-radius:5px;
+height:250px;
+}
+.img3 {
+   width:60%;
+   
+}
+.info3{
+padding:35px;
+background:#e2ddd9;
+margin-left:-7.67px;
+margin-right:-7.7px;
+}
+.ev {
+font-size:23px;
+font-weight:bolder;
+}
+.info4{
+padding:100px 60px 20px 70px;
+}
+.text4 {
+color:gray;
+font-size:20px;
+}
+.info5{
+background:#15325c;
+background-image:url("https://iili.io/H04P3iv.md.jpg");
+border-radius:7px;
+padding:65px;
 color:white;
-line-height:30px;
-text-decoration:underline;
-font-size:17px;
+margin:25px;
 }
+.info6{
+background:#15325c;
+/*background-image:url("/storage/emulated/0/Download/kidspray.jpg");*/
+border-radius:7px;
+padding:65px;
+color:white;
+margin:25px;
+}
+
+b {
+color:green;
+}
+.wh { 
+color:white;
+
+
+}
+footer {
+background:black;
+color:white;
+padding:70px;
+left:0px;
+right:0px;
+position:absolute;
+}
+.iclogo {
+width:20%;
+}
+nav .iclogo{
+width:11%;
+padding-left:7px;
+padding-top:7px;
+}
+nav {
+position:fixed;
+background:white;
+left:0px;
+top:0px;
+right:0px;
+height:75px;
+}.menubutton {
+background:transparent;
+outline:none;
+border:none;
+display:block;
+position:relative;
+float:right;
+top:14px;
+right:4px;
+}
+.menucbutton {
+background:transparent;
+outline:none;
+border:none;
+font-size:40px;
+float:right;
+top:16px;
+display:none;
+font-size:50px;
+}
+
+ hr {
+ width:20px;
+ border:1px solid #22233f;
+ }.menuitems 
+ {
+ display:none;
+ text-align:left;
+ height:800px;
+ top:68px;
+ position:absolute;
+ background:white;
+ font-size:16px;
+ width:90%;
+ 
+ }
+ .infotext {
+   text-decoration:none;
+   padding:20px;
+   color:black;
+ }
+ .h11 {
+   font-family:Arial,sans-serif;
+ }
+ body {
+   font-family:Arial,sans-serif;
+ }
+ i {
+ font-family:cursive;
+ }
